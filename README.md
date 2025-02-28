@@ -1,14 +1,14 @@
 # Hi there!
 
-```
+```python
      _/_/_/                      
   _/        _/    _/    _/_/_/   
  _/  _/_/  _/    _/  _/_/        
 _/    _/  _/    _/      _/_/     
- _/_/_/    _/_/_/  _/_/_/        
+ _/_/_/    _/_/_/  _/_/_/
 
-{
-    "age": "23",
+me = {
+    "age": 23,
     "profession": "AI Engineer - Data Scientist",
     "origin": "France",
     "passions": ["Games", "Art", "Music", "Freefall"]
