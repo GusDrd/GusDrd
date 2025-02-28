@@ -11,6 +11,6 @@ me = {
     "age": 23,
     "profession": "AI Engineer - Data Scientist",
     "origin": "France",
-    "passions": ["Games", "Art", "Music", "Freefall"]
+    "passions": ["Tech", "Games", "Art", "Music", "Freefall"]
 }
 ```
