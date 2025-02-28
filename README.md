@@ -1,4 +1,16 @@
-# Hi, I'm Gus!
+# Hi there!
+
 ```
-I'm 23 year old, French artificial intelligence engineer with a passion for games and music.
+     _/_/_/                      
+  _/        _/    _/    _/_/_/   
+ _/  _/_/  _/    _/  _/_/        
+_/    _/  _/    _/      _/_/     
+ _/_/_/    _/_/_/  _/_/_/        
+
+{
+    "age": "23",
+    "profession": "AI Engineer - Data Scientist",
+    "origin": "France",
+    "passions": ["Games", "Art", "Music", "Freefall"]
+}
 ```
